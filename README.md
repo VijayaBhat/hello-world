@@ -1,3 +1,3 @@
 # hello-world
 Initial Repo
-Hello everyone. This si a test project to learn GIThub features
+Hello everyone. This is a test project to learn GIThub features
